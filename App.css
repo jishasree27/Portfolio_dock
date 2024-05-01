@@ -1,0 +1,56 @@
+/* App.css */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 180%;
+  font-family: italic;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+section {
+  padding: 50px 0;
+}
+
+.project {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+#introduction{
+  font-size: 170%;
+  font-style: italic;
+}
+#projects{
+  font-size: 170%;
+  font-family: italic;
+}
+#skills{
+  font-size: 170%;
+  font-family: italic;
+}
+#contact{
+  font-size: 170%;
+  font-family: italic;
+
+}
