@@ -1,5 +1,5 @@
 name: Push to AWS S3
-run-name: ${{ github.actor }} is running this GitHub Actions pipeline 
+run-name: ${{ github.actor }} is running this GitHub Actions pipeline
 on: [push]
 jobs:
   push-to-s3:
